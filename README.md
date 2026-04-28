@@ -66,3 +66,8 @@ src/point_mf_poc/visualization.py 点群比較PNG出力
 - PyTorchで小型Transformerを学習してGNAあり/なしを比較する
 - 小型VAE + diffusionを実装してLION-styleを学習ベースに近づける
 - 実データまたはShapeNet subsetで同じ比較を行う
+
+## 参考文献
+-https://arxiv.org/pdf/2210.06978
+-https://mm.cs.uec.ac.jp/pub/conf25/260310baba-y_4.pdf
+
